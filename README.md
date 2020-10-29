@@ -1,2 +1,2 @@
 # GatsbyJS Blog
-A custom log using Gatsby-Starter, React, and GraphQL data.
+A custom blog using Gatsby-Starter, React, and GraphQL data.
